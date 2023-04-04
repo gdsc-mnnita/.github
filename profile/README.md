@@ -1,0 +1,14 @@
+
+Developer Student Clubs are university based community groups for students interested in Google developer technologies. By joining a DSC, students grow their knowledge in a peer-to-peer learning environment and build solutions for local businesses and their community.
+
+# Events and Activities
+
+GDSC MNNIT-A host events and activities throughout the year, including technical workshops, speaker series, community building events, and more. Events are open to all students, regardless of their major or year in school.
+
+# Joining GDSC MNNIT Allahabad
+
+Join GDSC MNNIT-A from the [DSC website](https://gdsc.community.dev/motilal-nehru-national-institute-of-technology-nit-allahabad/).
+
+# Contributing
+
+We welcome contributions from everyone! Please read our [Contributing Guidelines](CONTRIBUTING.md) for more information on how you can get involved. If you have any questions, please feel free to reach out to us on our [email.](gdsc.mnnit@gmail.com).
