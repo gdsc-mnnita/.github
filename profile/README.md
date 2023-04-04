@@ -10,6 +10,12 @@ Developer Student Clubs are university based community groups for students inter
 
 GDSC MNNIT-A host events and activities throughout the year, including technical workshops, speaker series, community building events, and more. Events are open to all students, regardless of their major or year in school.
 
+### List of Events and Activities
+
+- [Flutter Forward](https://github.com/gdsc-mnnita/Flutter-Forward)
+- [ML Study Jams](https://github.com/gdsc-mnnita/ML-Study-Jams)
+- [Web Development Study Jams](https://github.com/gdsc-mnnita/Web-Development-Study-Jams)
+
 # Joining GDSC MNNIT Allahabad
 
 Join GDSC MNNIT-A from the [DSC website](https://gdsc.community.dev/motilal-nehru-national-institute-of-technology-nit-allahabad/).
