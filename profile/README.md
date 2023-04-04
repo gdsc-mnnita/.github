@@ -1,3 +1,8 @@
+<p align="center"> 
+<img src="https://user-images.githubusercontent.com/77530596/229812465-87893a77-7239-4f53-babc-399329d025c3.png" alt="GDSC MNNIT-A logo" />
+</p>
+
+
 
 Developer Student Clubs are university based community groups for students interested in Google developer technologies. By joining a DSC, students grow their knowledge in a peer-to-peer learning environment and build solutions for local businesses and their community.
 
