@@ -20,6 +20,10 @@ GDSC MNNIT-A host events and activities throughout the year, including technical
 
 Join GDSC MNNIT-A from the [DSC website](https://gdsc.community.dev/motilal-nehru-national-institute-of-technology-nit-allahabad/).
 
+# Joining a GDSC Event
+
+Please refer to this step-by-step tutorial [here](https://drive.google.com/file/d/1c8Tim2lGznmMTYzSEoFcV8mIp018S7mP/view?usp=sharing)
+
 # Contributing
 
 We welcome contributions from everyone! Please read our [Contributing Guidelines](CONTRIBUTING.md) for more information on how you can get involved. If you have any questions, please feel free to reach out to us on our [email.](gdsc.mnnit@gmail.com).
