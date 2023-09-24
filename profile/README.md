@@ -12,6 +12,7 @@ GDSC MNNIT-A host events and activities throughout the year, including technical
 
 ### List of Events and Activities
 
+- [Google Cloud Study Jams](https://github.com/gdsc-mnnita/Google-Cloud-Study-Jams)
 - [Flutter Forward](https://github.com/gdsc-mnnita/Flutter-Forward)
 - [ML Study Jams](https://github.com/gdsc-mnnita/ML-Study-Jams)
 - [Web Development Study Jams](https://github.com/gdsc-mnnita/Web-Development-Study-Jams)
